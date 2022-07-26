@@ -3,7 +3,7 @@
 
 
 
-<h3 align="center"> A passionate developer from Vietnam </h3>
+<h3 align="center"> Programmer from Vietnam </h3>
 
 
 <p align="center">✍ I'm a student of: FPT Polytechnic College.</p>
