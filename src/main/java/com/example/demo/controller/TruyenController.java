@@ -95,5 +95,5 @@ public class TruyenController {
 		model.addAttribute("truyensearch", list);
 		return "truyen/search";
 	}
-	
+	//nokjoj
 }
